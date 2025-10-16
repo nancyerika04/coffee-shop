@@ -31,10 +31,10 @@ export default function Coffe() {
         {
             id : 4,
             name : "Decaf Coffee",
-            description : "Decaf Coffee – Full taste, no caffeine.",
+            description : "Decaf Coffee Full taste, no caffeine.",
             price : "$15",
             image : "https://images.unsplash.com/photo-1597511325194-f5d8389f8a5c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1333",
-            link : "Full taste, no caffeine",
+            link : "https://buy.stripe.com/test_6oU3cva9navyag152P53O05",
         },
 
     ]
